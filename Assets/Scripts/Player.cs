@@ -59,21 +59,31 @@ public class Player : MonoBehaviour {
             health_text.text = "Health: " + health.ToString();
             Destroy(go);
         }
+
+        if (go.tag == "damage_player")
+        {
+            health = health - 1;
+            health_text.text = "Health: " + health.ToString();
+            Destroy(go);
+        }
     }
 
     private void OnCollisionEnter(Collision collision)
     {
         GameObject go = collision.gameObject;
-        if (go.tag == "ghost" && invincible == false)
+        if (go.tag == "ghost")
         {
-            health = health - 0.5f;
-            if (health <= 0) playerDead();
-            health_text.text = "Health: " + health.ToString();
-            GetComponent<SpriteRenderer>().color = Color.red;
-            invincible = true;
-            GetComponent<ArrowKeyMovement>().knockingBack();
-            coroutine = invinciblity(1f);
-            StartCoroutine(coroutine);
+            if(invincible == false)
+            {
+                health = health - 0.5f;
+                if (health <= 0) playerDead();
+                health_text.text = "Health: " + health.ToString();
+                GetComponent<SpriteRenderer>().color = Color.red;
+                invincible = true;
+                GetComponent<ArrowKeyMovement>().knockingBack();
+                coroutine = invinciblity(1f);
+                StartCoroutine(coroutine);
+            }
         }
     }
 

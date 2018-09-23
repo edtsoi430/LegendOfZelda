@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{DD8EF686-D2A1-2F90-6DA8-C5AA11F8DD92}</ProjectGuid>
+    <ProjectGuid>{541E5D71-2125-C3CB-7709-FBDC79BB7806}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,6 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\goriyaWeaponControl.cs" />
+    <Compile Include="Assets\Scripts\:Users:kawaitsoi:Desktop:EECS494:P1:p1_milestone:Assets:Scripts:goriyaControl.cs" />
     <Compile Include="Assets\Scripts\ArrowKeyMovement.cs" />
     <Compile Include="Assets\Scripts\BoundryCheck.cs" />
     <Compile Include="Assets\Scripts\CamFollowing.cs" />
@@ -68,13 +70,16 @@
     <Compile Include="Assets\Scripts\Displayer.cs" />
     <Compile Include="Assets\Scripts\EECS494FunBallAesthetics.cs" />
     <Compile Include="Assets\Scripts\EECS494FunBallController.cs" />
-    <Compile Include="Assets\Scripts\ghostControl.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\gelControl.cs" />
+    <Compile Include="Assets\Scripts\goriyaControl.cs" />
     <Compile Include="Assets\Scripts\Heart.cs" />
     <Compile Include="Assets\Scripts\InputToAnimator.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\LerpToDesiredUIPosition.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\ScreenShakeEffect.cs" />
+    <Compile Include="Assets\Scripts\StalfosControl.cs" />
     <Compile Include="Assets\Scripts\Sword.cs" />
     <Compile Include="Assets\Scripts\SwordControl.cs" />
     <None Include="Assets\Resources\Zelda\ZeldaTilePrefabMap.txt" />
@@ -83,16 +88,16 @@
     <None Include="Assets\Resources\Zelda\README.txt" />
     <None Include="Assets\Resources\Metroid\MetroidTilePrefabMap.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/kawaitsoi/Desktop/p1_milestone/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/P1/p1(Gorilla almost done)/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/kawaitsoi/Desktop/p1_milestone/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/P1/p1(Gorilla almost done)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/kawaitsoi/Desktop/p1_milestone/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/P1/p1(Gorilla almost done)/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/kawaitsoi/Desktop/p1_milestone/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/P1/p1(Gorilla almost done)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

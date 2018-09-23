@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{3EBF8F9A-8466-2F66-FAF7-48F45EEC43D9}</ProjectGuid>
+    <ProjectGuid>{7DC02A35-4EA7-42C7-A1A4-7C484B284825}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -65,16 +65,16 @@
     <Compile Include="Assets\Editor\DONT_EDIT\ModifyTilePrefabs.cs" />
     <Compile Include="Assets\Editor\DONT_EDIT\ParseAndGenerateMap.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/kawaitsoi/Desktop/p1_milestone/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/P1/p1(Gorilla almost done)/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/kawaitsoi/Desktop/p1_milestone/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/P1/p1(Gorilla almost done)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/kawaitsoi/Desktop/p1_milestone/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/P1/p1(Gorilla almost done)/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/kawaitsoi/Desktop/p1_milestone/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/P1/p1(Gorilla almost done)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -382,7 +382,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{DD8EF686-D2A1-2F90-6DA8-C5AA11F8DD92}</Project>
+      <Project>{541E5D71-2125-C3CB-7709-FBDC79BB7806}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,0 +1,5865 @@
+fileFormatVersion: 2
+guid: c6914adb8ea43487b989f4115be6f292
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_0
+    21300002: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_1
+    21300004: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_2
+    21300006: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_3
+    21300008: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_4
+    21300010: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_5
+    21300012: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_6
+    21300014: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_7
+    21300016: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_8
+    21300018: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_9
+    21300020: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_10
+    21300022: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_11
+    21300024: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_12
+    21300026: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_13
+    21300028: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_14
+    21300030: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_15
+    21300032: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_16
+    21300034: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_17
+    21300036: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_18
+    21300038: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_19
+    21300040: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_20
+    21300042: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_21
+    21300044: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_22
+    21300046: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_23
+    21300048: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_24
+    21300050: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_25
+    21300052: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_26
+    21300054: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_27
+    21300056: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_28
+    21300058: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_29
+    21300060: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_30
+    21300062: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_31
+    21300064: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_32
+    21300066: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_33
+    21300068: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_34
+    21300070: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_35
+    21300072: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_36
+    21300074: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_37
+    21300076: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_38
+    21300078: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_39
+    21300080: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_40
+    21300082: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_41
+    21300084: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_42
+    21300086: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_43
+    21300088: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_44
+    21300090: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_45
+    21300092: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_46
+    21300094: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_47
+    21300096: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_48
+    21300098: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_49
+    21300100: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_50
+    21300102: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_51
+    21300104: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_52
+    21300106: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_53
+    21300108: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_54
+    21300110: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_55
+    21300112: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_56
+    21300114: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_57
+    21300116: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_58
+    21300118: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_59
+    21300120: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_60
+    21300122: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_61
+    21300124: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_62
+    21300126: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_63
+    21300128: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_64
+    21300130: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_65
+    21300132: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_66
+    21300134: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_67
+    21300136: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_68
+    21300138: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_69
+    21300140: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_70
+    21300142: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_71
+    21300144: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_72
+    21300146: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_73
+    21300148: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_74
+    21300150: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_75
+    21300152: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_76
+    21300154: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_77
+    21300156: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_78
+    21300158: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_79
+    21300160: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_80
+    21300162: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_81
+    21300164: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_82
+    21300166: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_83
+    21300168: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_84
+    21300170: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_85
+    21300172: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_86
+    21300174: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_87
+    21300176: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_88
+    21300178: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_89
+    21300180: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_90
+    21300182: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_91
+    21300184: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_92
+    21300186: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_93
+    21300188: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_94
+    21300190: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_95
+    21300192: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_96
+    21300194: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_97
+    21300196: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_98
+    21300198: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_99
+    21300200: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_100
+    21300202: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_101
+    21300204: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_102
+    21300206: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_103
+    21300208: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_104
+    21300210: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_105
+    21300212: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_106
+    21300214: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_107
+    21300216: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_108
+    21300218: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_109
+    21300220: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_110
+    21300222: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_111
+    21300224: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_112
+    21300226: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_113
+    21300228: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_114
+    21300230: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_115
+    21300232: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_116
+    21300234: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_117
+    21300236: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_118
+    21300238: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_119
+    21300240: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_120
+    21300242: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_121
+    21300244: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_122
+    21300246: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_123
+    21300248: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_124
+    21300250: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_125
+    21300252: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_126
+    21300254: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_127
+    21300256: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_128
+    21300258: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_129
+    21300260: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_130
+    21300262: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_131
+    21300264: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_132
+    21300266: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_133
+    21300268: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_134
+    21300270: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_135
+    21300272: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_136
+    21300274: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_137
+    21300276: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_138
+    21300278: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_139
+    21300280: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_140
+    21300282: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_141
+    21300284: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_142
+    21300286: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_143
+    21300288: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_144
+    21300290: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_145
+    21300292: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_146
+    21300294: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_147
+    21300296: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_148
+    21300298: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_149
+    21300300: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_150
+    21300302: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_151
+    21300304: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_152
+    21300306: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_153
+    21300308: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_154
+    21300310: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_155
+    21300312: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_156
+    21300314: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_157
+    21300316: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_158
+    21300318: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_159
+    21300320: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_160
+    21300322: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_161
+    21300324: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_162
+    21300326: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_163
+    21300328: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_164
+    21300330: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_165
+    21300332: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_166
+    21300334: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_167
+    21300336: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_168
+    21300338: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_169
+    21300340: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_170
+    21300342: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_171
+    21300344: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_172
+    21300346: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_173
+    21300348: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_174
+    21300350: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_175
+    21300352: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_176
+    21300354: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_177
+    21300356: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_178
+    21300358: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_179
+    21300360: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_180
+    21300362: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_181
+    21300364: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_182
+    21300366: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_183
+    21300368: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_184
+    21300370: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_185
+    21300372: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_186
+    21300374: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_187
+    21300376: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_188
+    21300378: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_189
+    21300380: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_190
+    21300382: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_191
+    21300384: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_192
+    21300386: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_193
+    21300388: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_194
+    21300390: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_195
+    21300392: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_196
+    21300394: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_197
+    21300396: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_198
+    21300398: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_199
+    21300400: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_200
+    21300402: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_201
+    21300404: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_202
+    21300406: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_203
+    21300408: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_204
+    21300410: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_205
+    21300412: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_206
+    21300414: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_207
+    21300416: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_208
+    21300418: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_209
+    21300420: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_210
+    21300422: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_211
+    21300424: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_212
+    21300426: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_213
+    21300428: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_214
+    21300430: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_215
+    21300432: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_216
+    21300434: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_217
+    21300436: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_218
+    21300438: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_219
+    21300440: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_220
+    21300442: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_221
+    21300444: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_222
+    21300446: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_223
+    21300448: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_224
+    21300450: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_225
+    21300452: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_226
+    21300454: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_227
+    21300456: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_228
+    21300458: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_229
+    21300460: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_230
+    21300462: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_231
+    21300464: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_232
+    21300466: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_233
+    21300468: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_234
+    21300470: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_235
+    21300472: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_236
+    21300474: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_237
+    21300476: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_238
+    21300478: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_239
+    21300480: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_240
+    21300482: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_241
+    21300484: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_242
+    21300486: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_243
+    21300488: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_244
+    21300490: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_245
+    21300492: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_246
+    21300494: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_247
+    21300496: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_248
+    21300498: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_249
+    21300500: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_250
+    21300502: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_251
+    21300504: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_252
+    21300506: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_253
+    21300508: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_254
+    21300510: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_255
+    21300512: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_256
+    21300514: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_257
+    21300516: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_258
+    21300518: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_259
+    21300520: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_260
+    21300522: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_261
+    21300524: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_262
+    21300526: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_263
+    21300528: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_264
+    21300530: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_265
+    21300532: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_266
+    21300534: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_267
+    21300536: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_268
+    21300538: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_269
+    21300540: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_270
+    21300542: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_271
+    21300544: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_272
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd517d1ef7c04f9b8bea2cc99a171ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236c1347d1d76498f8e4dc163a54fb0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0d3a8c6ef164a7e80ac0f399beaf66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d751f694c344852916f88a2b816d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a63ba5950b4aa79480cafe102d55f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330dc3f98832346c7ac84f97826300a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030c007020c0849fb84844e969dc2615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3570d891346d244338f1b81964e262d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f5ea6c42f8a43bd860d604c91e9ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800eec4f8029f47fb8568ffc6b76e1f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ef23127680e4c65b473e7adaf76cc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376b56b0bc80b44449ceaf55dc0d40e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91364a96bea2245d19a4e4490c31e9f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db48dbc3b3324adfbf5f19e57ffedc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532cbd01c28c3468193be5b0961bca5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db31c7ef3244ed8ac4622444a8202f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb1d0851dbb5496c9d133cd5487d8ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df846faf730445a4bc248caee2173f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_18
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5104bd41766ef42e5bed3afe30c2ad4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed42e95df2e50435894f781050ffef91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b08fdd3bf724dd38d75becac94aba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cd930eb69994d008d7904a716458ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a44cd0275054a9e8adc1a845d49fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477303d58b932451abb8b03b7cf58b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbfb0533ebfb4057b2c1e4f22147ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8807ebaea66e04b99923029eeaec2115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29088bf49bea041d5a9572e2c3882f1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22fa64c2829141e190149d28bbc6653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4bff7968e944adb14a8b99dac908d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac175bedba2c540e7a4c5c3b90776af5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7ab4314a9244a398e1a2861c6a2b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120958a8869b343fbad297f360a60b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba03dcb23be71477eb4c3f4588187089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba9c07a1c854ea8a374e5db917e4f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_34
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95db7433b3649efb40dc7b582735fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812f70f69c06c4f8cb37c4d1c95e17ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08887983a6ee491d91c339c252eaf9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042a288415ef4deab84d52b7993002a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_38
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbb51f9f5aa94df8a112dadcddf40c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b978c532339a84f4dbe2fed47239db1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a9409ee81354b8cb1f1f2c456e7d52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_41
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 253
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f0d7d473074395893cc26e9e18846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd8935b3c9e64967978bc64465dcc01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e79078a14ce42529cc9df32e47a134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d8b977d891b404d9bdaa1708c9d533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0f8ca5ce974a98a1f2eaffd63750d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e675b4c3a2db45b89ad70078dc9fa0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_47
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4927f9074e47b43f3904627bde44dc0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f179b6ec4fe41f2b04e023bf6b8406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ba860f794a64abe98d9a76ac9f70ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_50
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffdd2f5e4cac48288c5ef25d021a20f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fd06781825d4b90b2103467341d0a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_52
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339795c4aec9243d3b9c562b7d2e1077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_53
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555094ecf3459440985db5502526741e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_54
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c07f26039d1e412f84cfb53c98b2fc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_55
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49c0f5d241604fcfbfd0013050c89fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_56
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9ec2b3ab8a421fa52c0ddfab90592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ad41cdad1c47ccb2b1471ccac96cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_58
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3c267cb407f43f7a75de99ca6bdc57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_59
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47813ea545854023af1693eaff64682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_60
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8eb83d06efa4ec0a5f2799916a8dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594af16c550dc4dbb89e362e76e37a13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_62
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e78b664365694807b546dadeefa210a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c76413d86f4d11a362801770ddcab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef1d9cffb9f74f3a92059a6d7635d61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b59e17255ddb4cfab49e935f6a55a66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7455804462edf48d0a527adf131bf383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_67
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efaa72f0a4d2440b95677a06d103063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_68
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0162bb2f1bbcf4dc2a5629923197cca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_69
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28742bbd40cd413cbcc03460ae48544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58fe4787f8154ac083944c80ba46deb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_71
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2387da0ccde486db21c2ceb8cb385c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_72
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a636c3b645a464d828ef8b8aef1afa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47354763c75b84ceea6146a9d9541b7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_74
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc79c4609d704ac4b08c9a7da35bc25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_75
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4a00efa23a4215a33406a11cecdeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_76
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbc3e0247a28429aa334ccc5e389dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_77
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f2517839dab4fe3b1b6d31e3171061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_78
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bb4f131c3c14848b09f7d239443a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_79
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724f7507f171f49589a182c9678f0dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_80
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0ad9e29755432099d1ae5c972a468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_81
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48ab8a811aba42268ec20f6bfac11b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_82
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331bed065a4704e48a68afcf21493ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_83
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 209
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf41b59c6ba4c549bf77ac58eb573a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb964180ab3d341e5b42616bdb64cfce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_85
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7685ae18c22ba43eda5c70c67d7934dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_86
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af35a79d52f554d6eaa160185e8f9724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5eaec54dd3e45f98d4921f9c5e7592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade3382db7a5d4c02a11c7126eeab87e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_89
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cd724559a5c477b8d6a68d468b5398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_90
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608096a6e7d44a7fba13c48554f3696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29b9fbd610bf4a00923df676ab6dab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_92
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a83d2ba87543aa84e50a19b4ba64f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_93
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb53863efa484e70a65a468452ec443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_94
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ae6a0fc8aa40c7abaf662e2f05e3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_95
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ea1ad1f2b5a4cf785b92d5838d774d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_96
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63296e437e59d4722bdad2418ceb741d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_97
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0df4d4741144a3c9deaf52fcb5707d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_98
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30f5078ed49747bcb6734ea39421f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c5aab75ae464460ae15dfa0fc35cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_100
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d735db60b5373459ba29db1236392219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_101
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc18529734f44d3bf95f12d6888f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_102
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac066be5c2ee94a79896c8c296e7fc3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_103
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245053fa99678498bb0838d82e9e2795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_104
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 187
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4185f9c9025b447179b6ce6129a5961e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_105
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b2549c9ab94f1d80dfdfdf6cabc6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_106
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bea176462eb64f6abe0be066c84606a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_107
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc7e2ea0a6f74082b0c5f377cb1eb32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_108
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4223916a52c6a46909b48b44444c134c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_109
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a99460d6aa543b68bbf534ed6c98cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_110
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b2ef44f51b4637b8b1fd343779200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_111
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7268b81cd53f497bbce4d29722e0913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_112
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef0d07328544492c9b23df103daf0fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_113
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3108bb1c974a4ee8b889ad6f15ece14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_114
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08623a21325f743ce90c09896dfc3594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_115
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8d6384c49b4e77bb649e52a372182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_116
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9e9e942010e49fb86c375e14bccd91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_117
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43468502234a848c095a882b9c5b8724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_118
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3530baa91cf48109412c40a27f2b22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_119
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b3e191b9163456988a16409fac50d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_120
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df9d11b1e1db497fbb65b5278ca8c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_121
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f831b0f74fac4755a229b37b0192bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_122
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2114a1159a548e8a3846f217d73ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_123
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb160b8d817d4080baac270675f7678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_124
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e321e061a34bbeb34b8d666b6e3bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_125
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4326e93f4874a4d94f45d8dda8cc14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_126
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7f1442674e143e38bb9da18fc1ea1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_127
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d3a0c7ad2d64a75b60547b28b6e693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_128
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af587db73d72f4d0bae73bcfda0d7463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_129
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458866181bfa34335b8b357c1d05e392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_130
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4ee486a7315496dbdbea5b33a396de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_131
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf3404cde02046a195a9c2f94c2e439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_132
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f36af89b0c40ce9b3d5bca6631c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_133
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1142cf60b2ca74a6ba66087ab0be61d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_134
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94476fb087f74f038b25d8605aee847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_135
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887946a434dbc4c9b9d406562cd9ab6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_136
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ace14982d95f48ceb1d05327889ed99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_137
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17137f3199a1a499ba1c47134e7e448d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_138
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7853f661ae0438ea3d60da492ed5ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_139
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d015075a4c948c99775f62440548f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_140
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825a4a4b699344ae2b216d2e077af8b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_141
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4732971f7604ff4ac05550af0cc226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_142
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06cff59fef144a780249550c850e47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_143
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05c3a01123774cd280160c5fb75d4d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_144
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cae4544f9c3143da8fd25565edd0273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_145
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3480451a30d41329600ef67c33c2f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_146
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d288b460de94c42148afc06228e28417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_147
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a313de29afb354a189d2b773b0595e56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_148
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b632734615ace44908da97b445b6c660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_149
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdb42ab4dfb64b07b8cc7f2a0964f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_150
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f534b54f7754545879e84ccddf81cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_151
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf115c26d85441baa0b7f983526effe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_152
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcbaa281499c4f91b462720c64f5611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_153
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a36c8afffbe4f1699056c21014be8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_154
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1b5ae15bdd4f7f8d0e11a9daf636a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_155
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ff8da6fff054158ac5d955f9b23154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_156
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087de5ac280ef4ee79322f1ea7d4aa58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_157
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e66a9b62d43450da4466f9da1c5b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_158
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df51151119ff43968565e063e0fdb4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_159
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80a632d930d47229b930af952a79cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_160
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f783373f234c8e9423f18969c47be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_161
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1837abe4378458cbf71c7b6a59a5dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_162
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0350067ba99684be5b7a6c78f68eda0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_163
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607a096ffcad644e18e4f68da8465a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_164
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3313ff2d2beac4755a1e05d5bec33bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_165
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca93a492fe514c72ada4f9d43d9ec06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_166
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c74df98b62b407e967037d64f620d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_167
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 121
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61000af30d9d46f9ad79865b34a6f8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_168
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ef0cba84cf842758518bcc36200c4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_169
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8dbfb4517fb474a91b0d9345ecd2f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_170
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef4a487744a48fd8ffc1672c5b9511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d792e19b30944f04ba29cebe32d409e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_172
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c928ce0ffa24848bfd010c80946d4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_173
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4e6949113904f82aef893aa5c84a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_174
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edad16ab8bf3f4206ad639c81f46a817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_175
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc967a58da16b4d05a27cf88d991adda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_176
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0d3d9851a1c493a93075c08869b0f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_177
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5300f87449404734b0f71096091d2a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_178
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740da5c2203064bcaa4f43a806d4598f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_179
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0fd489c83344ce69cb7dc00884fbd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_180
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ed626a2a23145debdf9596d9173f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_181
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a0a0d5a31864b089d87af7d1362c75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_182
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c568784ccb49fe9d9d930bd9fb2a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_183
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4290b85c758454de5b3174bd43d1a662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_184
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab5e4479a9af41dd8dcedf144c5c127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_185
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db40fc4f0f1d43d5829ea602b3f85e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_186
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ac46fa0bba4d3291d10e2301b4893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_187
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f87a78701a848b096770b544e51145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_188
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 99
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad7a03519dc2462099a7e1a0d7d1a71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_189
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e253acea06942b89ae9af9d908aae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_190
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b7d075a8eea42bf957c1d2f4078ceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_191
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075cd24102afa438384245339736d11f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_192
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9970893fe3af342a491ac7d7b8626d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_193
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580d8ae72a8d344a2bd03c7745e69104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_194
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964924badf5c847b98ea35e0f458c957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_195
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85916daf120d4ee88d3ce2ffaa6e792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_196
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfc193ed0d8143c191404ba3fbf82e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_197
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc6b37cda841445f94cf04b05a878b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_198
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bab042ca0b24f99a14fd412a230928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_199
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b773776a4c6e84a279944ed834e8788b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_200
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34102599a467046afad566f264af34ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_201
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f0b45ccd5bc4adfacccd694819f70a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_202
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a736c38e784d8bb322c741391a763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_203
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab63663db1b74e8b8cdf23b25fa1393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_204
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b09cd9ed4447b2bdbb270c323a3a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_205
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4386b8e7f91e04167ad6fd917201f610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_206
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ae713693b84325ba8596f652d5851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_207
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f43cacfe63de49dea391b5d5a7bb144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_208
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a481adfe67374c3d9634457422ffd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_209
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7160d41e9cc54d489fd942152ea0daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_210
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b736a5234e259428aa9c0fb18e780066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_211
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4407e154ed2a8462aabe5c718f6566b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_212
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f14da310ea51423cb71f5725cadfdfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_213
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97145becdab5c40288cbf7dde4964739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_214
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cecff907775d4c92839f49abf22824e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_215
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926c63d8508b4d88972e993543c813b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_216
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb5d567293fd40d78ffbc33ca77b3fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_217
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea414754d69b4e09a9336d502ebbef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_218
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee71bfa8d8914965bd4f7e8e7052991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_219
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63bc601694f24fc295214d82f9dfdbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_220
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90babfa825d0e49658eb0781cb9c914a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_221
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f12cf21daf4de78762d25f68faf64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_222
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656ed8bf0973645908e68db780badce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_223
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b520b66142f9d4af68383d4b462366e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_224
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52849bf79c23419680510bbc4097418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_225
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0138c67311f234c518716c02b8309cf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_226
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7e06924064d412999c3bcdc4355d05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_227
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037abd5f665dd4bedb5d77802a65325f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_228
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd287d1d7b24ddfae9d63a10815e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_229
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ab0b911a4b84e7294ce6f1c55c8fe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_230
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b1fa9b042884e8aaaf263669f6287c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_231
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75102e1ff68194cb1925f67f97446fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_232
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0e812b0fa8d40beb3038a616ce2cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_233
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae49dd23ad503492c87625d9f52cee9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_234
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688197014dedb42529d4512620c9977b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_235
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea746621a3c4c918cbb41b6c90fb36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_236
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735bcf539d8c7490ca3c962f03335841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_237
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039f4219a17c4961a216b395b0314b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_238
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f4faebe58e462793a9ae080b644f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_239
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b891ddaad0232444aa8fa1973550bd68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_240
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb61507d75d4e4caf39868f4a6c214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_241
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c65d329fd404abc9a6e4e068bf23fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_242
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b0af5aa8ee447acb0914eed3839070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_243
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9edbbf0f7d2b4ab3a7ec7630d06c478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_244
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d11f0104c9945c7aed2fcca5063831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_245
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07b87c9782ff4068ad38b099c0185f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_246
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f24c1205d874312b5d401550186b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_247
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa1a3bc7de9b4be78245992e8e2af63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_248
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646163938e334f508edd19358e7c5c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_249
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987829ae5927e4639b91abcb9f25881b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_250
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd10fbdf07774fa38174d49eaf8ede6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_251
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 33
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb088296854643189f30b417184daf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_252
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe70de1ac3f43a8a4e7145cf8686c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_253
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec0b4a5db4744842bba6f8f02c2ca18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_254
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3bc678fdf7644eba1d4edb6979c726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_255
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f30f48b253d46248b6384c1f9f8d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_256
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69b354ef91c84f24ad7547ae3b6e054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_257
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7308da2ed41043a68cc1023dc444e11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_258
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7ab9403883a47519cd49b915958626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_259
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c16f2aac2454feab90fe341bc48bae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_260
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9afdbc45436444b970b9d2e099c60d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_261
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7097b6a7123940a8b80893f7c27f128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_262
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d103e3b7e2b848e7a9c7b4783b80731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_263
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424fb25f94be4694b81fe319d74a40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_264
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f7a1b21cf74736bd3fa253b56fe8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_265
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002847547d79e43e2a07d02b0c21a0f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_266
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b382184ec947f68af6b15a935a23b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_267
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5a8ac8585964c3ca2760554d54c1da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_268
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3416e0817a32f4887b3bc9ea9924da0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_269
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54cce87b5974caf9e724ddeccc3e0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_270
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af94e3f0dc540acb6a4bee022637dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_271
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf78a00490f44b4f9a931cf37086f4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - WarioWare Inc Mega Microgames - The Legend of Zelda_272
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0beefa8b09c7419a843740be547bd28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 93bdb398f624d46b6bb8ae9fa7def58a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
