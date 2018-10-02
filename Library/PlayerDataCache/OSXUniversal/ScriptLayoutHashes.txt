@@ -1,6 +1,6 @@
 OSXStandalone
 PlayerPath?
-/Users/kawaitsoi/Desktop/494 P1/mactest.app
+/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Build/Mac.app
 SceneListBegin?
 Assets/Scenes/MainScene.unity
 SceneListEnd?

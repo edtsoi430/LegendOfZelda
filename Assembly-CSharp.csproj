@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{BC3C2551-A90C-03CC-C3AB-44BFC593A23C}</ProjectGuid>
+    <ProjectGuid>{2521F550-F725-130A-175C-890D952255DF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -125,16 +125,16 @@
     <None Include="Assets\Resources\Zelda\ZeldaTilePrefabMap.txt" />
     <None Include="Assets\Resources\Zelda\README.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/kawaitsoi/Desktop/494 P1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/kawaitsoi/Desktop/494 P1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/kawaitsoi/Desktop/494 P1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/kawaitsoi/Desktop/494 P1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

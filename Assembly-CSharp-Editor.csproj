@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{8A2D9A4A-839D-91BE-88BD-0DEEBD19E0E9}</ProjectGuid>
+    <ProjectGuid>{A6F60A34-2659-A336-E21D-C9FF1FD72C32}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -65,16 +65,16 @@
     <Compile Include="Assets\Editor\DONT_EDIT\ModifyTilePrefabs.cs" />
     <Compile Include="Assets\Editor\DONT_EDIT\ParseAndGenerateMap.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/kawaitsoi/Desktop/494 P1/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/kawaitsoi/Desktop/494 P1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/kawaitsoi/Desktop/494 P1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/kawaitsoi/Desktop/494 P1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -385,7 +385,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{BC3C2551-A90C-03CC-C3AB-44BFC593A23C}</Project>
+      <Project>{2521F550-F725-130A-175C-890D952255DF}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

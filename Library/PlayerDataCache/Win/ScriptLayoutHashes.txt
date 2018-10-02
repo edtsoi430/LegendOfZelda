@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-/Users/kawaitsoi/Desktop/Windows/494 P1.exe
+/Users/kawaitsoi/Desktop/EECS494/Legend of Zelda/Build/Windows/494 P1.exe
 SceneListBegin?
 Assets/Scenes/MainScene.unity
 SceneListEnd?
