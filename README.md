@@ -6,5 +6,5 @@ EECS 494 - Recreated the classical NES game Legend of Zelda using C# and Unity. 
 # Executables 
 Supported both Mac and Windows. Executables located in Build folder. 
 
-# WEB.GL
+# Web Build
 http://www-personal.umich.edu/~edtsoi/WEBGL/
