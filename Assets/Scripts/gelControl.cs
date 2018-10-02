@@ -5,7 +5,7 @@ using UnityEngine;
 public class gelControl : Enemy {
     private void Start()
     {
-        move_time = 2.0f;
+        speed = 1;
         duration_time = 0.5f;
         health = 2;
     }

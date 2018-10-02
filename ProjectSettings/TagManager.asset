@@ -14,6 +14,31 @@ TagManager:
   - door2
   - door3
   - damage_player
+  - wall
+  - wall_penable
+  - weapon_returning
+  - explosive
+  - wall_master
+  - wall
+  - wall_penable
+  - weapon_returning
+  - explosive
+  - wall_master
+  - pushable block
+  - bomb
+  - bow_room
+  - stop_enemy
+  - boomerangC
+  - bowC
+  - big_heart
+  - full_health
+  - stop_enemy
+  - enterBowRoom
+  - backTo
+  - oldMan
+  - Iori
+  - gold
+  - Iori2
   layers:
   - Default
   - TransparentFX
@@ -23,16 +48,16 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
-  - Gorilla
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - PlayerWeapon
+  - EnemyWeapon
+  - WallMaster
+  - trigger
+  - dragon
+  - wallPenable
+  - Iori
+  - IoriPen
   - 
   - 
   - 
@@ -51,3 +76,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background
+    uniqueID: 2622424423
+    locked: 1

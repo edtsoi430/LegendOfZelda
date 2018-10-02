@@ -3,51 +3,65 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ArrowKeyMovement : MonoBehaviour {
-    Rigidbody rb;
 
-    public float movement_speed = 4;
+    public float movement_speed = 6;
     public string direction;
-    public bool inMoving;
+    public bool camera_moving;
+    public bool knocking;
     public bool dead;
-    public bool player_moving;
+    public bool catching;
+    public bool flying;
+    public bool gold;
+    public bool enter_oldMan;
+    public AudioClip knockBack_sound;
 
-    private Sword s;
+    private Rigidbody rb;
+    private WeaponControl wc;
     private IEnumerator coroutine;
-    private bool knocking;
     private Vector2 knocking_speed;
-
+    private GameObject wall_master;
     // Use this for initialization
     void Awake () {
         direction = "down";
-        s = GetComponent<Sword>();
         rb = GetComponent<Rigidbody>();
-        inMoving = false;
+        wc = GetComponent<WeaponControl>();
+        camera_moving = false;
         knocking = false;
-        player_moving = true;
+        dead = false;
+        catching = false;
+        flying = false;
+        enter_oldMan = false;
+        gold = false;
         knocking_speed = new Vector2(0, 0);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        if (!inMoving && !knocking && !dead && !s.weapon_using)
+
+        if (!camera_moving && !knocking && !dead && !wc.weapon_holding && !catching && !flying && !enter_oldMan && !gold)
         {
+            Debug.Log(10);
             Vector2 current_input = GetInput();
             rb.velocity = current_input * movement_speed;
         }
         else if (knocking && !dead)
         {
-            player_moving = false;
             Vector2 current_input = knocking_speed;
             rb.velocity = current_input * movement_speed * 2;
+            AudioSource.PlayClipAtPoint(knockBack_sound, Camera.main.transform.position);
+        }
+        else if (catching && !dead)
+        {
+            rb.velocity = Vector2.zero;
+            transform.position = wall_master.transform.position;
         }
         else
         {
-            player_moving = false;
-            rb.velocity = new Vector2(0, 0);
+            rb.velocity = Vector2.zero;
         }
 	}
 
-    Vector2 GetInput()
+    Vector2 GetInput ()
     {
         float horizantal_input = Input.GetAxis("Horizontal");
         float vertical_input = Input.GetAxis("Vertical");
@@ -82,39 +96,40 @@ public class ArrowKeyMovement : MonoBehaviour {
         return new Vector2(horizantal_input, vertical_input);
     }
 
-    public void knockingBack()
+    public void knockingBack ()
     {
         knocking = true;
+
         if (direction == "right")
         {
-            knocking_speed.x = -1;
-            coroutine = move(0.5f);
-            StartCoroutine(coroutine);
+            knocking_speed.x = -0.8f;
         }
         else if (direction == "left")
         {
-            knocking_speed.x = 1;
-            coroutine = move(0.5f);
-            StartCoroutine(coroutine);
+            knocking_speed.x = 0.8f;
         }
         else if (direction == "up")
         {
-            knocking_speed.y = -1;
-            coroutine = move(0.5f);
-            StartCoroutine(coroutine);
+            knocking_speed.y = -0.8f;
         }
         else if (direction == "down")
         {
-            knocking_speed.y = 1;
-            coroutine = move(0.5f);
-            StartCoroutine(coroutine);
+            knocking_speed.y = 0.8f;
         }
+
+        coroutine = Move(0.3f);
+        StartCoroutine(coroutine);
     }
 
-    IEnumerator move (float time)
+    IEnumerator Move (float time)
     {
         yield return new WaitForSeconds(time);
         knocking = false;
         knocking_speed = new Vector2(0, 0);
+    }
+
+    public void GetCaught (GameObject go)
+    {
+        wall_master = go;
     }
 }

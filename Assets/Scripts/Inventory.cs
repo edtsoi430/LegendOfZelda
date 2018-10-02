@@ -18,9 +18,14 @@ public class Inventory : MonoBehaviour {
         key_count += num_keys;
     }
 
-    public void AddBombss(int num_bombs)
+    public void AddBombs(int num_bombs)
     {
         bomb_count += num_bombs;
+    }
+
+    public void SetBombs(int num_bombs)
+    {
+        bomb_count = num_bombs;
     }
 
     public int GetRupees()

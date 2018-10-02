@@ -13,10 +13,10 @@ public class BoundryCheck : MonoBehaviour {
 
     // Use this for initialization
     void Awake () {
-        minX = room.transform.position.x;
-        minY = room.transform.position.y;
-        maxX = room.transform.position.x + 16;
-        maxY = room.transform.position.y + 11;
+        minX = room.transform.position.x + 1;
+        minY = room.transform.position.y + 1;
+        maxX = room.transform.position.x + 14;
+        maxY = room.transform.position.y + 9;
     }
 	
 	// Update is called once per frame
@@ -31,7 +31,7 @@ public class BoundryCheck : MonoBehaviour {
         {
             pos.x = minX;
         }
-        else if (pos.y > maxY)
+        if (pos.y > maxY)
         {
             pos.y = maxY;
         }
@@ -41,5 +41,10 @@ public class BoundryCheck : MonoBehaviour {
         }
 
         transform.position = pos;
+    }
+
+    public void SetRoom(GameObject R)
+    {
+        room = R;
     }
 }

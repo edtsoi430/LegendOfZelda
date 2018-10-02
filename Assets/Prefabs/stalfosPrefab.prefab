@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 65639397514531950}
   - component: {fileID: 114764536367269112}
   - component: {fileID: 114798488783727500}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: stalfosPrefab
   m_TagString: ghost
   m_Icon: {fileID: 0}
@@ -38,8 +38,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1007354255933952}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.84, y: -1.99, z: -0.115649775}
-  m_LocalScale: {x: 4.17, y: 3.6, z: 3}
+  m_LocalPosition: {x: 53.979, y: 7.0199995, z: 0}
+  m_LocalScale: {x: 5.4, y: 5.4, z: 5.4}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -69,7 +69,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.24, y: 0.28, z: 0.3}
+  m_Size: {x: 0.18, y: 0.18, z: 0}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &114764536367269112
 MonoBehaviour:
@@ -82,12 +82,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0bb012bb0ade44a84a01494647e84ddb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rupeePrefab: {fileID: 1987249556210262, guid: 6542c3b1f78de6b4580ccd62a97c88a5,
+    type: 2}
+  heartPrefab: {fileID: 1362054613768810, guid: 39be1b7648ac76f478edee289951c43d,
+    type: 2}
+  bombPrefab: {fileID: 1347570612646194, guid: fb327763a80074241a7ed098c876a4af, type: 2}
+  movement: {x: 0, y: 0}
+  die_sound: {fileID: 8300000, guid: 589566380c17f7c48b6d9b63208e94c3, type: 3}
+  rb: {fileID: 0}
+  sr: {fileID: 0}
+  last_sprite: {fileID: 0}
   speed: 4
-  sprite1: {fileID: 21300000, guid: 4a61ac425edc7134a83e35bbbaa46c2b, type: 3}
-  sprite2: {fileID: 21300002, guid: 4a61ac425edc7134a83e35bbbaa46c2b, type: 3}
-  move_time: 2
+  flashing_time: 0
   duration_time: 1
+  sprite_time: 0
+  start_time: 0
   health: 2
+  stop: 0
+  stop_time: 0
+  stop_duration: 0
+  sprite1: {fileID: 21300026, guid: 4a61ac425edc7134a83e35bbbaa46c2b, type: 3}
+  sprite2: {fileID: 21300028, guid: 4a61ac425edc7134a83e35bbbaa46c2b, type: 3}
 --- !u!114 &114798488783727500
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -134,8 +149,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 4a61ac425edc7134a83e35bbbaa46c2b, type: 3}
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 21300026, guid: 4a61ac425edc7134a83e35bbbaa46c2b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

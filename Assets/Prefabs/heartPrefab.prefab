@@ -67,6 +67,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   red: {fileID: 21300246, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
   blue: {fileID: 21300248, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  pick_up_heart_sound: {fileID: 8300000, guid: fe2540fe824b15c4b9b17ab4e3e39cf0, type: 3}
 --- !u!212 &212833873411679902
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -101,7 +102,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300246, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

@@ -2,26 +2,34 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InputToAnimator : MonoBehaviour
-{
+public class InputToAnimator : MonoBehaviour {
 
-    Animator animator;
-    //Sword S;
+    public Animator animator;
+    private WeaponControl wc;
 
-    // Use this for initialization
-    void Start()
-    {
+	// Use this for initialization
+	void Start () {
         animator = GetComponent<Animator>();
-        //S = GetComponent<Sword>();
+        wc = GetComponent<WeaponControl>();
     }
-
-    // Update is called once per frame
-    void Update()
+	
+	// Update is called once per frame
+	void Update ()
     {
         animator.SetFloat("horizontal_input", Input.GetAxisRaw("Horizontal"));
         animator.SetFloat("vertical_input", Input.GetAxisRaw("Vertical"));
 
-        if (Input.GetAxisRaw("Horizontal") == 0 && Input.GetAxisRaw("Vertical") == 0 || GameObject.Find("Player").GetComponent<Sword>().weapon_using == true)
+        if (wc.weapon_holding)
+        {
+            animator.SetTrigger("weapon");
+        }
+
+        if (!wc.weapon_holding)
+        {
+            animator.ResetTrigger("weapon");
+        }
+
+        if (Input.GetAxisRaw("Horizontal") == 0 && Input.GetAxisRaw("Vertical") == 0 && !wc.weapon_holding)
         {
             animator.speed = 0.0f;
         }
@@ -29,17 +37,6 @@ public class InputToAnimator : MonoBehaviour
         {
             animator.speed = 1.0f;
         }
-
-
     }
-
-    // Checking weather using the sword or not
-    //private void CheckSword()
-    //{
-    //    if (S.sword == true)
-    //    {
-    //        animator.SetTrigger("sword");
-    //        S.sword = false;
-    //    }
-    //}
+        
 }

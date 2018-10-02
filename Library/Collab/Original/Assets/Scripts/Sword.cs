@@ -33,7 +33,7 @@ public class Sword : MonoBehaviour
     float startTime = 0.0f;
     float deactiveTime = 0.5f;
 
-//    private float fullHealth = 3.0f;
+    //    private float fullHealth = 3.0f;
 
     private void Start()
     {
@@ -47,12 +47,6 @@ public class Sword : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        /*
-        if (GameObject.Find("Player").GetComponent<Player>().health == fullHealth)
-        {
-            deactiveTime = 0.8f;
-        }
-        */
         if (startTime != 0.0f && Time.time - startTime > deactiveTime)
         {
             Destroy(sword_out);
@@ -64,7 +58,7 @@ public class Sword : MonoBehaviour
             weapon_using = false;
         }
 
-        if (Input.GetKeyDown(KeyCode.X) && !ARM.inMoving && sword_out == null)
+        if (Input.GetKeyDown(KeyCode.X) && !ARM.camera_moving && sword_out == null)
         {
             weapon_using = true;
             startTime = Time.time;
@@ -75,13 +69,14 @@ public class Sword : MonoBehaviour
                 sr.SetActive(true);
                 sword_out = Instantiate<GameObject>(sr);
                 sr.SetActive(false);
-                if (GameObject.Find("Player").GetComponent<Player>().health == 3.0f)
+                if (GameObject.Find("Player").GetComponent<Player>().current_health == 3.0f)
                 {
                     sword_out.transform.position = GameObject.Find("Player").transform.position;
                     sword_out.GetComponent<Rigidbody>().AddForce(new Vector3(15, 0, 0));
                     sword_out.GetComponent<Rigidbody>().velocity = new Vector2(15, 0);
                 }
-                else{
+                else
+                {
                     sword_out.transform.position = GameObject.Find("Player").transform.position + new Vector3(0.8f, 0, 0);
                     sword_out.GetComponent<Rigidbody>().velocity = new Vector2(0, 0);
                 }
@@ -91,13 +86,14 @@ public class Sword : MonoBehaviour
                 sl.SetActive(true);
                 sword_out = Instantiate<GameObject>(sl);
                 sl.SetActive(false);
-                if (GameObject.Find("Player").GetComponent<Player>().health == 3.0f)
+                if (GameObject.Find("Player").GetComponent<Player>().current_health == 3.0f)
                 {
                     sword_out.transform.position = GameObject.Find("Player").transform.position;
                     sword_out.GetComponent<Rigidbody>().AddForce(new Vector3(-15, 0, 0));
                     sword_out.GetComponent<Rigidbody>().velocity = new Vector2(-15, 0);
                 }
-                else{
+                else
+                {
                     sword_out.transform.position = GameObject.Find("Player").transform.position + new Vector3(-0.8f, 0, 0);
                     sword_out.GetComponent<Rigidbody>().velocity = new Vector2(0, 0);
                 }
@@ -107,7 +103,7 @@ public class Sword : MonoBehaviour
                 su.SetActive(true);
                 sword_out = Instantiate<GameObject>(su);
                 su.SetActive(false);
-                if (GameObject.Find("Player").GetComponent<Player>().health == 3.0f)
+                if (GameObject.Find("Player").GetComponent<Player>().current_health == 3.0f)
                 {
                     sword_out.transform.position = GameObject.Find("Player").transform.position;
                     sword_out.GetComponent<Rigidbody>().AddForce(new Vector3(0, 15, 0));
@@ -124,7 +120,7 @@ public class Sword : MonoBehaviour
                 sd.SetActive(true);
                 sword_out = Instantiate<GameObject>(sd);
                 sd.SetActive(false);
-                if (GameObject.Find("Player").GetComponent<Player>().health == 3.0f)
+                if (GameObject.Find("Player").GetComponent<Player>().current_health == 3.0f)
                 {
                     sword_out.transform.position = GameObject.Find("Player").transform.position;
                     sword_out.GetComponent<Rigidbody>().AddForce(new Vector3(0, -15, 0));
@@ -138,7 +134,7 @@ public class Sword : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.Z) && GetComponent<Inventory>().GetRupees() > 0 && !ARM.inMoving && sword_out == null)
+        if (Input.GetKeyDown(KeyCode.Z) && GetComponent<Inventory>().GetRupees() > 0 && !ARM.camera_moving && sword_out == null)
         {
             deactiveTime = 0.3f;
             startTime = Time.time;

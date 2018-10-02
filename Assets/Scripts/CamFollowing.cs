@@ -4,89 +4,77 @@ using UnityEngine;
 
 public class CamFollowing : MonoBehaviour {
 
-    public ArrowKeyMovement ARM;
     public GameObject player;
+    public ArrowKeyMovement arm;
 
     private IEnumerator coroutine;
     private Vector3 player_position;
     private Vector3 final_position;
-    private Vector3 inmoving_position;
 
-	// Use this for initialization
-	void Start () {
-        
+    private void Awake()
+    {
+        arm = player.GetComponent<ArrowKeyMovement>();
     }
-	
-	// Update is called once per frame
-	void LateUpdate () {
-        if (ARM.inMoving == true && inmoving_position.x < final_position.x && ARM.direction == "right")
+    
+    void Update () {
+        if (arm.camera_moving && transform.position.x < final_position.x && arm.direction == "right")
         {
-            inmoving_position = transform.position;
-            inmoving_position.x = inmoving_position.x + Time.deltaTime * 8f;
-            if (inmoving_position.x > final_position.x)
+            transform.position = Vector3.MoveTowards(transform.position, final_position, Time.deltaTime * 8);
+            if (transform.position.x > final_position.x)
             {
-                inmoving_position.x = final_position.x;
+                transform.position = final_position;
             }
-            transform.position = inmoving_position;
         }
-        else if (ARM.inMoving == true && inmoving_position.x > final_position.x && ARM.direction == "left")
+        else if (arm.camera_moving && transform.position.x > final_position.x && arm.direction == "left")
         {
-            inmoving_position = transform.position;
-            inmoving_position.x = inmoving_position.x - Time.deltaTime * 8f;
-            if (inmoving_position.x < final_position.x)
+            transform.position = Vector3.MoveTowards(transform.position, final_position, Time.deltaTime * 8);
+            if (transform.position.x < final_position.x)
             {
-                inmoving_position.x = final_position.x;
+                transform.position = final_position;
             }
-            transform.position = inmoving_position;
         }
-        else if (ARM.inMoving == true && inmoving_position.y < final_position.y && ARM.direction == "up")
+        else if (arm.camera_moving && transform.position.y < final_position.y && arm.direction == "up")
         {
-            inmoving_position = transform.position;
-            inmoving_position.y = inmoving_position.y + Time.deltaTime * 6;
-            if (inmoving_position.y > final_position.y)
+            transform.position = Vector3.MoveTowards(transform.position, final_position, Time.deltaTime * 6);
+            if (transform.position.y > final_position.y)
             {
-                inmoving_position.y = final_position.y;
+                transform.position = final_position;
             }
-            transform.position = inmoving_position;
         }
-        else if (ARM.inMoving == true && inmoving_position.y > final_position.y && ARM.direction == "down")
+        else if (arm.camera_moving && transform.position.y > final_position.y && arm.direction == "down")
         {
-            inmoving_position = transform.position;
-            inmoving_position.y = inmoving_position.y - Time.deltaTime * 6;
-            if (inmoving_position.y < final_position.y)
+            transform.position = Vector3.MoveTowards(transform.position, final_position, Time.deltaTime * 6);
+            if (transform.position.y < final_position.y)
             {
-                inmoving_position.y = final_position.y;
+                transform.position = final_position;
             }
-            transform.position = inmoving_position;
         }
     }
 
     public void moveCam()
     {
         player.GetComponent<SpriteRenderer>().sortingOrder = -99;
-        ARM.inMoving = true;
+        arm.camera_moving = true;
         final_position = transform.position;
-        inmoving_position = transform.position;
-        if (ARM.direction == "right")
+        if (arm.direction == "right")
         {
             final_position.x = final_position.x + 16f;
             coroutine = move("right", 2.01f);
             StartCoroutine(coroutine);
         }
-        else if (ARM.direction == "left")
+        else if (arm.direction == "left")
         {
             final_position.x = final_position.x - 16f;
             coroutine = move("left", -2.01f);
             StartCoroutine(coroutine);
         }
-        else if (ARM.direction == "up")
+        else if (arm.direction == "up")
         {
             final_position.y = final_position.y + 11f;
-            Debug.Log(final_position.y);
             coroutine = move("up", 2.01f);
             StartCoroutine(coroutine);
         }
-        else if (ARM.direction == "down")
+        else if (arm.direction == "down")
         {
             final_position.y = final_position.y - 11f;
             coroutine = move("down", -2.01f);
@@ -107,7 +95,8 @@ public class CamFollowing : MonoBehaviour {
             player_position.y = player_position.y + player_move;
         }
         player.transform.position = player_position;
-        ARM.inMoving = false;
+        arm.camera_moving = false;
         player.GetComponent<SpriteRenderer>().sortingOrder = 1;
     }
+
 }

@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 3234c98ea2eee47e3a2f2309ecfabc2c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_0
+    21300002: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_1
+    21300004: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_2
+    21300006: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_3
+    21300008: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_4
+    21300010: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_5
+    21300012: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_6
+    21300014: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_7
+    21300016: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_8
+    21300018: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_9
+    21300020: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_10
+    21300022: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_11
+    21300024: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_12
+    21300026: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_13
+    21300028: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_14
+    21300030: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_15
+    21300032: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_16
+    21300034: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_17
+    21300036: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_18
+    21300038: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_19
+    21300040: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_20
+    21300042: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_21
+    21300044: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_22
+    21300046: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_23
+    21300048: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_24
+    21300050: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_25
+    21300052: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_26
+    21300054: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_27
+    21300056: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_28
+    21300058: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_29
+    21300060: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_30
+    21300062: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_31
+    21300064: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_32
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3f4d6bfb60544189dd3249f8b85b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbdf5fb5256447a8863153ee5f409a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839ccbe9a7c184b5faa97716e98dcd70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfca4ba8452004091a4a7a32304ffda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe5cdfe1d6e9483a85a3237a927c62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 197
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afcd1073ab664eb08fd57abc297cd13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25001d13de54d73a01be1e5811d893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2930decbbd8bf4fc286d1e4ecdc691a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 177
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8336e5928834d4e49b7dd23d62970dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b279e827f6fd462f95062c311070169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 157
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dedd8b4b3a446e297f557a2edfce92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 157
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58945ed314c3d403fb3aabec28361e30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b49b8b69ea74479e80c970ff0871133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 137
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adcc79fc7ec841a39d9353e2f6acaba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 137
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd440c2de575b41cc910ffbef8bd64fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2590a8334d38a4889bbcedd346a04ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 117
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96a0b92accdc4d179563b5c6e976485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 117
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c57f4379ac64c95af685ad1ab1d911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98330555eaa884a3090eb065299cc8c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df9a01a267844a56a05d6ca8fcf6a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55518c146089342a9b795d3dc4b43645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3470c0f654774a1599ad0e9fc2392ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d8a05465084420488042fceb258505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38c45a65933f4105a51b26698c88996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fe9328906074d7a8273980e0dae832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284aa91b9b6da41b6919eb1d20aaf570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef0aecea24ad4580b8b82a4189d8b0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae16a0e0b1ddb4e82b2bb7d9b1677244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc3a5eda0694f218bc2a4525527da6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e700c302ff81467780fd992e07ae218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790826e3d2eca40afbb70272c4a96b5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d9c908d113548c2a0c4bff0ccf1e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Oracle of Ages - Effects_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d951e9375a684447aa4ddfc84ce81cc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e724f11856eae4d95b1fc41f3729a0e9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

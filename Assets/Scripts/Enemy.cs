@@ -3,217 +3,94 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour {
-    public float speed = 1f;
-    // down
-    public Sprite sprite1;
-    public Sprite sprite2;
-    public bool goriya = false;
+    public GameObject rupeePrefab;
+    public GameObject heartPrefab;
+    public GameObject bombPrefab;
+    public GameObject bigHeartPrefab;
+    public Vector2 movement;
+    public AudioClip die_sound;
+    public AudioClip knockBack_sound;
+    public Rigidbody rb;
+    public SpriteRenderer sr;
+    public Sprite last_sprite;
 
-    public string direction = "";
-    public int directional = 0; // for gorilla ,directional = 1
-
-    public float move_time;
+    public float speed;
+    public float flashing_time;
     public float duration_time;
+    public float sprite_time;
+    public float start_time;
     public int health;
-    public GameObject Goriya_weaponL;
-    public GameObject Goriya_weaponR;
-    public GameObject Goriya_weaponU;
-    public GameObject Goriya_weaponD;
-    public Animator anim;
+    public bool stop;
+    public float stop_time;
+    public float stop_duration;
+    public bool is_boss = false;
 
-    private float start_time = 0.0f;
-    private float sprite_time = 0.0f;
-    private Vector2 movement;
-    private Rigidbody rb;
-    private SpriteRenderer sr;
-    private Sprite last_sprite;
+    public Sprite d1;
+    public Sprite d2;
 
-    // 
-    private GameObject weapon_out;
+    public bool triggeredPop;
 
-    // Use this for initialization
-
-    void addForce()
-    {
-        rb.velocity = movement * speed;
-    }
-
+    private bool damaged;
+    private IEnumerator coroutine;
     void Awake()
     {
         rb = GetComponent<Rigidbody>();
         sr = GetComponent<SpriteRenderer>();
         last_sprite = sr.sprite;
-        movement = randomMove();
-
-        if (goriya == true){
-            anim = GetComponent<Animator>();
-            //anim.speed = 1.0f;
-            if (Mathf.Abs(movement.y) > 0)
-            {
-                if (movement.y > 0)
-                {
-                    anim.SetBool("Up", true);
-                    anim.SetBool("down", false);
-                }
-                else
-                {
-                    anim.SetBool("down", true);
-                    anim.SetBool("Up", false);
-                    //weapon_out = Instantiate<GameObject>(Gorilla_weaponD);
-                    //weapon_out.GetComponent<Rigidbody>().velocity = new Vector2(0, -5);
-                }
-                anim.SetBool("left", false);
-                anim.SetBool("right", false);
-            }
-            else
-            {
-                if (Mathf.Abs(movement.x) > 0)
-                {
-                    if (movement.x > 0)
-                    {
-                        anim.SetBool("right", true);
-                        anim.SetBool("left", false);
-                    }
-                    else
-                    {
-                        anim.SetBool("left", true);
-                        anim.SetBool("right", false);
-                    }
-                    anim.SetBool("down", false);
-                    anim.SetBool("Up", false);
-                }
-            }
-            Invoke("addForce", 0.520f);
-        }
-        else{
-            rb.velocity = movement * speed;
-        }
+        sprite_time = Time.time;
+        start_time = Time.time;
+        stop = false;
+        stop_duration = 3;
+        damaged = false;
+        coroutine = Blink(0.05f);
+        triggeredPop = false;
     }
-
-
     // Update is called once per frame
-    void Update()
+    public virtual void Update()
     {
         if (health == 0)
         {
-            Destroy(gameObject);
-        }
-        if(rb.velocity == Vector3.zero && goriya == true){
-            anim.speed = 0f;
-        }
-        else{
-            if(goriya == true){
-                anim.speed = 1.0f;
-            }
-        }
-
-
-        if (Time.time - start_time > move_time)
-        {
-            start_time = Time.time;
-            movement = randomMove();
-            if (goriya == true){
-                if (Mathf.Abs(movement.y) > 0)
-                {
-                    if (movement.y > 0)
-                    {
-                        anim.SetBool("Up", true);
-                        anim.SetBool("down", false);
-                        rb.velocity = movement * speed;
-
-                        Goriya_weaponU.SetActive(true);
-                        weapon_out = Instantiate<GameObject>(Goriya_weaponU);
-                        Goriya_weaponU.SetActive(false);
-
-                        weapon_out.transform.position = this.gameObject.transform.position;
-                        weapon_out.transform.localScale = new Vector3(1, 1, 1);
-                        weapon_out.GetComponent<Rigidbody>().AddForce(new Vector3(0, 5, 0));
-                        weapon_out.GetComponent<Rigidbody>().velocity = new Vector3(0, 5, 0);
-                    }
-                    else
-                    {
-                       
-                        anim.SetBool("down", true);
-                        anim.SetBool("Up", false);
-                        rb.velocity = movement * speed;
-
-                        Goriya_weaponD.SetActive(true);
-                        weapon_out = Instantiate<GameObject>(Goriya_weaponD);
-                        Goriya_weaponD.SetActive(false);
-
-                        weapon_out.transform.position = this.gameObject.transform.position;
-                        weapon_out.transform.localScale = new Vector3(1, 1, 1);
-                        weapon_out.GetComponent<Rigidbody>().AddForce(new Vector3(0, -5, 0));
-                        weapon_out.GetComponent<Rigidbody>().velocity = new Vector3(0, -5, 0);
-                    }
-                    anim.SetBool("left", false);
-                    anim.SetBool("right", false);
-                }
-                else
-                {
-                    if (Mathf.Abs(movement.x) > 0)
-                    {
-                        if (movement.x > 0)
-                        {
-                            anim.SetBool("right", true);
-                            anim.SetBool("left", false);
-                            rb.velocity = movement * speed;
-
-                            Goriya_weaponR.SetActive(true);
-                            weapon_out = Instantiate<GameObject>(Goriya_weaponR);
-                            Goriya_weaponR.SetActive(false);
-
-                            weapon_out.transform.position = this.gameObject.transform.position;
-                            weapon_out.transform.localScale = new Vector3(1, 1, 1);
-                            weapon_out.GetComponent<Rigidbody>().AddForce(new Vector3(5, 0, 0));
-                            weapon_out.GetComponent<Rigidbody>().velocity = new Vector3(5, 0, 0);
-                        }
-                        else
-                        {
-                            anim.SetBool("left", true);
-                            anim.SetBool("right", false);
-                            rb.velocity = movement * speed;
-
-                            Goriya_weaponD.SetActive(true);
-                            weapon_out = Instantiate<GameObject>(Goriya_weaponD);
-                            Goriya_weaponD.SetActive(false);
-
-                            weapon_out.transform.position = this.gameObject.transform.position;
-                            weapon_out.transform.localScale = new Vector3(1, 1, 1);
-                            weapon_out.GetComponent<Rigidbody>().AddForce(new Vector3(-5, 0, 0));
-                            weapon_out.GetComponent<Rigidbody>().velocity = new Vector3(-5, 0, 0);
-                        }
-                        anim.SetBool("down", false);
-                        anim.SetBool("Up", false);
-                    }
-                }
-            }
-            else{
-                rb.velocity = movement * speed;
-            }
-        }
-        if(goriya == false){
-            if (Time.time - sprite_time > duration_time)
+            if (!is_boss)
             {
-                sprite_time = Time.time;
-
-                if (last_sprite == sprite1)
-                {
-                    sr.sprite = sprite2;
-                    last_sprite = sprite2;
-                }
-                else if (last_sprite == sprite2)
-                {
-                    sr.sprite = sprite1;
-                    last_sprite = sprite1;
-                }
+                ItemsReward();
             }
+            else
+            {
+                BossReward();
+            }
+            Destroy(gameObject);
+            AudioSource.PlayClipAtPoint(die_sound, Camera.main.transform.position);
+        }
+
+        if(damaged && !is_boss)
+        {
+            damaged = false;
+            StartCoroutine(coroutine);
+        }
+
+        if(triggeredPop)
+        {
+            triggeredPop = false;
         }
     }
 
+    IEnumerator Blink(float time)
+    {
+        for (int i = 0; i < 5; i++){
+            gameObject.GetComponent<SpriteRenderer>().color = Color.blue;
+            yield return new WaitForSeconds(time);
+            gameObject.GetComponent<SpriteRenderer>().color = Color.red;
+            yield return new WaitForSeconds(time);
+            gameObject.GetComponent<SpriteRenderer>().color = Color.green;
+            yield return new WaitForSeconds(time);
+            gameObject.GetComponent<SpriteRenderer>().color = Color.white;
+        }
+    }
+
+
     public virtual Vector2 randomMove()
     {
-        return new Vector2(10, 0);
+        return new Vector2(0, 0);
     }
 
     void OnTriggerEnter(Collider other)
@@ -221,9 +98,68 @@ public class Enemy : MonoBehaviour {
         GameObject go = other.gameObject;
         if (go.tag == "weapon_damage")
         {
-            health--;
-            other.gameObject.SetActive(false);
+            Debug.Log(10);
+                health--;
+                damaged = true;
+                if (!is_boss)
+                {
+                    if (gameObject.transform.position.y - go.transform.position.y >= (gameObject.GetComponent<BoxCollider>().size.y * 0.3f))
+                    {
+                        rb.velocity = new Vector3(0, 1, 0) * 5;
+                    }
+                    else if (go.transform.position.y - gameObject.transform.position.y >= (gameObject.GetComponent<BoxCollider>().size.y * 0.3f))
+                    {
+                        rb.velocity = new Vector3(0, -1, 0) * 5;
+                    }
+                    else if (gameObject.transform.position.x - go.transform.position.x >= (gameObject.GetComponent<BoxCollider>().size.x * 0.3f))
+                    {
+                        rb.velocity = new Vector3(1, 0, 0) * 5;
+                    }
+                    else
+                    {
+                        rb.velocity = new Vector3(-1, 0, 0) * 5;
+                    }
+                    AudioSource.PlayClipAtPoint(knockBack_sound, Camera.main.transform.position);
+                }
+        }
+        else if (go.tag == "weapon_returning")
+        {
+            stop = true;
+            stop_time = Time.time;
+        }
+        else if (go.tag == "explosive")
+        {
+            health = 0;
         }
     }
 
+    private void ItemsReward()
+    {
+        int random = Random.Range(0, 8);
+        if (random == 0 && random == 1)
+        {
+            Instantiate(rupeePrefab, transform.position, Quaternion.identity);
+        }
+        else if (random == 2)
+        {
+            Instantiate(heartPrefab, transform.position, Quaternion.identity);
+        }
+        else if (random == 3)
+        {
+            Instantiate(bombPrefab, transform.position, Quaternion.identity);
+        }
+    }
+
+    public void StopCheck()
+    {
+        if (Time.time - stop_time > stop_duration && stop)
+        {
+            stop = false;
+        }
+    }
+
+    public void BossReward()
+    {
+        Instantiate(bigHeartPrefab, transform.position, Quaternion.identity);
+    }
 }

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rupee
+  - key
+  - door
+  - aisle
+  - weapon_damage
+  - ghost
+  - heart
+  - door2
+  - door3
+  - damage_player
+  - wall
+  - wall_penable
+  - weapon_returning
+  - explosive
+  - wall_master
+  - wall
+  - wall_penable
+  - weapon_returning
+  - explosive
+  - wall_master
+  - pushable block
+  - bomb
+  - bow_room
+  - stop_enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - PlayerWeapon
+  - EnemyWeapon
+  - WallMaster
+  - trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2622424423
+    locked: 1

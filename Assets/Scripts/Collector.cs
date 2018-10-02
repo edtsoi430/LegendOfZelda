@@ -9,9 +9,9 @@ public class Collector : MonoBehaviour {
     public Sprite d2;
     public Sprite d3;
 
-    Inventory inventory;
+    public SpriteRenderer[] sr;
 
-    private SpriteRenderer[] sr;
+    Inventory inventory;
 
     private void Start()
     {
@@ -39,6 +39,15 @@ public class Collector : MonoBehaviour {
         {
             if (inventory != null)
                 inventory.AddKeys(1);
+            Destroy(object_collided_with);
+
+            AudioSource.PlayClipAtPoint(rupee_collection_sound_clip, Camera.main.transform.position);
+        }
+
+        if (object_collided_with.tag == "bomb")
+        {
+            if (inventory != null)
+                inventory.AddBombs(1);
             Destroy(object_collided_with);
 
             AudioSource.PlayClipAtPoint(rupee_collection_sound_clip, Camera.main.transform.position);

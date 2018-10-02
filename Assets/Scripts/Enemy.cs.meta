@@ -3,7 +3,18 @@ guid: d5d92e3fbd1be5d4bb6ff3b60e90fc2d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - rupeePrefab: {instanceID: 0}
+  - heartPrefab: {instanceID: 0}
+  - bombPrefab: {instanceID: 0}
+  - bigHeartPrefab: {instanceID: 0}
+  - die_sound: {instanceID: 0}
+  - knockBack_sound: {fileID: 8300000, guid: 3d6686becef6c9c4eb7815a183b4835e, type: 3}
+  - rb: {instanceID: 0}
+  - sr: {instanceID: 0}
+  - last_sprite: {instanceID: 0}
+  - d1: {instanceID: 0}
+  - d2: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

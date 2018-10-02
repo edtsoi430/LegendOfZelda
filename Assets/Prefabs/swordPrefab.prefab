@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1764599732679974}
+  m_IsPrefabAsset: 1
+--- !u!1 &1764599732679974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4759431503244302}
+  - component: {fileID: 212801108762835768}
+  - component: {fileID: 54585851924992818}
+  - component: {fileID: 65719598644293718}
+  - component: {fileID: 114666503959329784}
+  m_Layer: 10
+  m_Name: swordPrefab
+  m_TagString: weapon_damage
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4759431503244302
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1764599732679974}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 28.477911, y: 36.827324, z: 4.3281984}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &54585851924992818
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1764599732679974}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &65719598644293718
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1764599732679974}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.4375, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114666503959329784
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1764599732679974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c35b553c663f9844bf7f12cf585b67a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 0
+  start_time: 0
+  holding_time: 0
+  speed: 0
+  layer_number: 0
+  has_shot: 0
+  player: {fileID: 0}
+  player_arm: {fileID: 0}
+  player_tf: {fileID: 0}
+  player_wc: {fileID: 0}
+  sr: {fileID: 0}
+  rb: {fileID: 0}
+  sword_down: {fileID: 21300234, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  sword_left: {fileID: 21300236, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  sword_up: {fileID: 21300238, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  sword_right: {fileID: 21300240, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  sword_down2: {fileID: 21300298, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  sword_left2: {fileID: 21300300, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  sword_up2: {fileID: 21300302, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  sword_right2: {fileID: 21300304, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  bangPrefab: {fileID: 1807229164591226, guid: 8abc53309501da546988f4ce020d384c, type: 2}
+--- !u!212 &212801108762835768
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1764599732679974}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300240, guid: 45afd34443b96473598b76e2b1778b4e, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.6875, y: 0.9375}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
