@@ -14,4 +14,6 @@ http://www-personal.umich.edu/~edtsoi/WEBGL/
 ![alt text](https://github.com/edtsoi430/LegendOfZelda/blob/master/images/Iori%20-%20level%201.png)
 
 - Level 2
-![alt_text](https://github.com/edtsoi430/LegendOfZelda/blob/master/images/Iori%20level%202.png)alt
+![alt_text](https://github.com/edtsoi430/LegendOfZelda/blob/master/images/Iori%20level%202.png)
+
+![alt_text]()
