@@ -1,6 +1,6 @@
 # Legend of Zelda
 
-# Objectives:
+# Objectives
 Recreated the classical NES game The Legend of Zelda using C# in Unity. Also added in multiple additional, custom levels to fight with Iori (with increasing level of difficulty as level goes up)
 
 # Executables
