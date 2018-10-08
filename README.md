@@ -1,4 +1,4 @@
-# Legend of Zelda
+# The Legend of Zelda 2D
 
 # Objectives:
 Recreated the classical NES game The Legend of Zelda using C# in Unity. Also added in multiple additional, custom levels to fight with Iori (with increasing level of difficulty as level goes up)
@@ -6,7 +6,7 @@ Recreated the classical NES game The Legend of Zelda using C# in Unity. Also add
 # Executables:
 Supported both Mac and Windows. Executables located in Build folder
 
-# Web Build
+# Web Build:
 http://www-personal.umich.edu/~edtsoi/WEBGL/
 
 # Demo:
