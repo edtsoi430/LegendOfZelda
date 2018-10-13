@@ -9,7 +9,7 @@ Supported both Mac and Windows. Executables located in Build folder
 # Web Build:
 http://www-personal.umich.edu/~edtsoi/WEBGL/
 
-# Demo:
+# Demonstration:
 - Level 1
 ![alt text](https://github.com/edtsoi430/LegendOfZelda/blob/master/images/Iori%20-%20level%201.png)
 
